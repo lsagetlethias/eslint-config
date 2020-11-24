@@ -7,7 +7,7 @@ Opinionated ESLint config to use on various and numerous TypeScript repos
 yarn add -D @lsagetlethias/eslint-config
 ```
 
-### Config
+### Config 
 ```js
 // .eslintrc.js
 {
